@@ -1,5 +1,3 @@
-## 꼭 정리해주세요
-
 1. IoC
 2. DI
 3. Spring Container(IoC Container)
