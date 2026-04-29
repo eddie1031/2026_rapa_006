@@ -17,6 +17,8 @@
 3. 표준 입출력
 4. 출력 버퍼
 5. 버퍼
+6. EL(Expression Language)
+7. DSL
 
 알게된거
 1. https를 왜쓰는가
